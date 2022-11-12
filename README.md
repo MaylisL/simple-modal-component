@@ -2,7 +2,7 @@
 
 ## Installation 
 
-Run the following command:`npm install simple-modal-component`
+Run the following command:`npm install modal-component-byml`
 
 ## Getting Started with this modal component
 
