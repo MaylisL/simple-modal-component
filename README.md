@@ -33,7 +33,7 @@ export function Example() {
 ## Overwrite the style by using the differents css classes
 
 
-> **modal-wrapper** for the layout of the modal (it constains the modal and the backdrop)
+> **modal-wrapper** for the layout of the modal (it contains the modal and the backdrop)
 
 > **modal** for the modal card
 
